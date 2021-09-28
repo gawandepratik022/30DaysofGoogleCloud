@@ -23,13 +23,13 @@
     - [x] Kubernetes Engine: Qwik Start
     - [x] Set Up Network and HTTP Load Balancers
     - [x] Create and Manage Cloud Resources: Challenge Lab
-- [ ] Perform Foundational Infrastructure Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/118)
-    - [ ] Cloud Storage Qwik Start - Cloud Console
-    - [ ] Cloud IAM: Qwik Start
-    - [ ] Cloud Monitoring: Qwik Start
-    - [ ] Cloud Functions: Qwik Start - Console
-    - [ ] Google Cloud Pub/Sub: Qwik Start - Console
-    - [ ] Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
+- [x] Perform Foundational Infrastructure Tasks in Google Cloud: [link](https://google.qwiklabs.com/quests/118)
+    - [x] Cloud Storage Qwik Start - Cloud Console
+    - [x] Cloud IAM: Qwik Start
+    - [x] Cloud Monitoring: Qwik Start
+    - [x] Cloud Functions: Qwik Start - Console
+    - [x] Google Cloud Pub/Sub: Qwik Start - Console
+    - [x] Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
 - [ ] Setup and Configure a cloud environment in Google Cloud: [link](https://google.qwiklabs.com/quests/119)
     - [ ] Cloud IAM: Qwik Start
     - [ ] Introduction to SQL for BigQuery and Cloud SQL
