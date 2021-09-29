@@ -30,13 +30,13 @@
     - [x] Cloud Functions: Qwik Start - Console
     - [x] Google Cloud Pub/Sub: Qwik Start - Console
     - [x] Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab
-- [ ] Setup and Configure a cloud environment in Google Cloud: [link](https://google.qwiklabs.com/quests/119)
-    - [ ] Cloud IAM: Qwik Start
-    - [ ] Introduction to SQL for BigQuery and Cloud SQL
-    - [ ] Multiple VPC Networks
-    - [ ] Cloud Monitoring: Qwik Start
-    - [ ] Managing Deployments Using Kubernetes Engine
-    - [ ] Set Up and Configure a cloud environment in Google Cloud: Challenge Lab
+- [x] Setup and Configure a cloud environment in Google Cloud: [link](https://google.qwiklabs.com/quests/119)
+    - [x] Cloud IAM: Qwik Start
+    - [x] Introduction to SQL for BigQuery and Cloud SQL
+    - [x] Multiple VPC Networks
+    - [x] Cloud Monitoring: Qwik Start
+    - [x] Managing Deployments Using Kubernetes Engine
+    - [x] Set Up and Configure a cloud environment in Google Cloud: Challenge Lab
 - [ ] Deploy and Manage Cloud environments with Google Cloud: [link](https://google.qwiklabs.com/quests/121)
     - [ ] Orchestrating the Cloud with Kubernetes
     - [ ] Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
