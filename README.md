@@ -37,12 +37,12 @@
     - [x] Cloud Monitoring: Qwik Start
     - [x] Managing Deployments Using Kubernetes Engine
     - [x] Set Up and Configure a cloud environment in Google Cloud: Challenge Lab
-- [ ] Deploy and Manage Cloud environments with Google Cloud: [link](https://google.qwiklabs.com/quests/121)
-    - [ ] Orchestrating the Cloud with Kubernetes
-    - [ ] Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
-    - [ ] Multiple VPC Networks
-    - [ ] Troubleshooting Workloads on GKE for Site Reliability Engineers
-    - [ ] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
+- [x] Deploy and Manage Cloud environments with Google Cloud: [link](https://google.qwiklabs.com/quests/121)
+    - [x] Orchestrating the Cloud with Kubernetes
+    - [x] Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine
+    - [x] Multiple VPC Networks
+    - [x] Troubleshooting Workloads on GKE for Site Reliability Engineers
+    - [x] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
 - [ ] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
     - [ ] User Authentication: Identity-Aware Proxy
     - [ ] Multiple VPC Networks
