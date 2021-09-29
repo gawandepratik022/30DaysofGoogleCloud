@@ -43,20 +43,20 @@
     - [x] Multiple VPC Networks
     - [x] Troubleshooting Workloads on GKE for Site Reliability Engineers
     - [x] Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab
-- [ ] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
-    - [ ] User Authentication: Identity-Aware Proxy
-    - [ ] Multiple VPC Networks
-    - [ ] VPC Networks - Controlling Access
-    - [ ] HTTP Load Balancer with Cloud Armor
-    - [ ] Create an Internal Load Balancer
-    - [ ] Build and Secure Networks in Google Cloud: Challenge Lab
-- [ ] Deploy to Kubernetes in Google Cloud: [link](https://google.qwiklabs.com/quests/116)
-    - [ ] Introduction to Docker
-    - [ ] Kubernetes Engine: Qwik Start
-    - [ ] Orchestrating the Cloud with Kubernetes
-    - [ ] Managing Deployments Using Kubernetes Engine
-    - [ ] Continuous Delivery with Jenkins in Kubernetes Engine
-    - [ ] Deploy to Kuberenetes in Google Cloud: Challenge Lab
+- [x] Build and Secure Networks in Google Cloud: [link](https://google.qwiklabs.com/quests/128)
+    - [x] User Authentication: Identity-Aware Proxy
+    - [x] Multiple VPC Networks
+    - [x] VPC Networks - Controlling Access
+    - [x] HTTP Load Balancer with Cloud Armor
+    - [x] Create an Internal Load Balancer
+    - [x] Build and Secure Networks in Google Cloud: Challenge Lab
+- [x] Dexloy to Kubernetes in Google Cloud: [link](https://google.qwiklabs.com/quests/116)
+    - [x] Introduction to Docker
+    - [x] Kubernetes Engine: Qwik Start
+    - [x] Orchestrating the Cloud with Kubernetes
+    - [x] Managing Deployments Using Kubernetes Engine
+    - [x] Continuous Delivery with Jenkins in Kubernetes Engine
+    - [x] Deploy to Kuberenetes in Google Cloud: Challenge Lab
 
 ### * Track 2: Data Science and Machine Learning Track
 
